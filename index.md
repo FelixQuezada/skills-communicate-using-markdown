@@ -1,7 +1,6 @@
 # This is my first title whith Markdown
 
-## This is my second title winth Markdown h2
+## This is a nice cat
 
-###### here i need see the text's size
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-###### this is beatyfull
